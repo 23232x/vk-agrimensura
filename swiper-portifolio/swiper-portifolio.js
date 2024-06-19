@@ -1,0 +1,14 @@
+// cria-se um novo objeto desta forma.
+var swiperPortifolio = new Swiper(".mySwiper-portifolio", {
+  slidesPerView: 1,
+  spaceBetween: 30,
+  loop: true,
+  pagination: {
+    el: ".swiper-pagination",
+    clickable: true,
+  },
+  navigation: {
+    nextEl: ".swiper-button-next",
+    prevEl: ".swiper-button-prev",
+  },
+});

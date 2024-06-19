@@ -1,0 +1,102 @@
+/*##### PORTIFOLIO #####*/
+#portifolio {
+  margin-top: 10rem !important;
+}
+
+#portifolio .section-intro p.section-desc Strong {
+  font-weight: 900;
+  color: #fff;
+}
+.swiper.mySwiper-portifolio.portifolio.container-row {
+  width: 100%;
+}
+
+.swiper-slide.portifolio-item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: #505654 !important;
+  padding: 0 5rem;
+}
+
+.swiper-slide.portifolio-item .slide-left {
+  display: flex;
+  flex-direction: column;
+  max-width: 40%;
+}
+
+.swiper-slide.portifolio-item .slide-left h1 {
+  margin-top: 4rem;
+  font-size: 3rem;
+  line-height: 3rem;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  font-family: "Kanit", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+ul.portifolio-list.itens-list li {
+  display: flex;
+}
+
+.swiper-slide.portifolio-item .slide-left p {
+  font-family: "Urbanist", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 2.8rem;
+  letter-spacing: 0.25;
+  color: rgba(253, 253, 253, 72%);
+  margin-bottom: 3rem;
+}
+
+.swiper-slide.portifolio-item .slide-left ul.portifolio-list li {
+  display: flex !important;
+  font-family: "Urbanist", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 0.5rem;
+  letter-spacing: 0.25;
+  color: rgba(253, 253, 253, 72%);
+  margin-bottom: 3rem;
+}
+
+ul.portifolio-list li img {
+  margin-right: 10px !important;
+}
+.swiper-slide.portifolio-item .slide-right {
+  display: flex;
+}
+.swiper-slide.portifolio-item .slide-right.center-item3 {
+  justify-content: center !important;
+}
+.swiper-slide.portifolio-item .slide-right img {
+  max-width: 35rem;
+  padding: 2rem 1rem;
+}
+.swiper-slide.portifolio-item .slide-right img.item-2 {
+  max-width: 100%;
+}
+
+.swiper-slide.portifolio-item .slide-right img.item-3 {
+  max-width: 50%;
+}
+.swiper-slide.portifolio-item .slide-right.center-item-4 {
+  width: 100%;
+  display: flex !important;
+  flex-wrap: wrap !important;
+}
+
+.swiper-slide.portifolio-item .slide-right.center-item-7 {
+  width: 100%;
+  display: flex !important;
+  flex-wrap: wrap !important;
+}
+
+.swiper-slide.portifolio-item .slide-right.center-item-7 img {
+  height: 290px;
+  width: 285px;
+}

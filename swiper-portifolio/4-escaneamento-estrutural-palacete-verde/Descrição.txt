@@ -1,0 +1,6 @@
+O escaneamento a laser entrega uma solução detalhada e acurada do espaço físico.
+No projeto, foi utilizado laser scanner e drone.
+O laser scanner foi utilizado em ambiente interno.
+Já o drone, foi utilizado no ambiente externo
+O escaneamento a laser permite que sejam analisadas diversas variáveis para elaborar projetos de manutenção do prédio histórico.
+Esse lindo projeto contém 453 milhões de pontos

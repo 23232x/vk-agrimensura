@@ -1,0 +1,36 @@
+/* partners */
+#parceiros {
+  margin-top: 10rem;
+}
+
+.partners-img {
+  margin-top: 8rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.partners-img a {
+  display: inline-block;
+  max-width: 17rem;
+  padding: 5px;
+  margin: 15rem;
+
+  margin: 1rem 5rem;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: gray;
+}
+.partners-img a img {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: gray;
+}
+
+.partners-img a img:hover {
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+  filter: gray;
+}

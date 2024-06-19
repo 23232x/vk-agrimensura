@@ -1,0 +1,91 @@
+/*##### SERVICES #####*/
+/* ### estilização swiper servicos ##### */
+#swiper-services {
+  width: 100% !important;
+}
+
+/* .swiper-slide.service-item {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: flex-start;
+  font-size: 18px;
+  background: #fff !important;
+} */
+
+.our-services-intro {
+  margin-bottom: 5.8rem;
+}
+
+.service-slide-left h1 {
+  text-transform: uppercase;
+  font-family: "Kanit", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  color: #d9d9d9;
+  font-size: 3rem;
+  line-height: 3.8rem;
+  text-align: left;
+}
+.swiper-slide.service-item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between !important;
+  background-color: #505654 !important;
+  /* padding: 2rem 5rem !important; */
+}
+
+.service-item-desc {
+  display: flex;
+  flex-direction: column;
+  padding: 4rem 0;
+  margin-left: 8rem;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+.service-item-desc h1 {
+  font-size: 3rem;
+  line-height: 1.6rem;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  font-family: "Kanit", sans-serif;
+  font-weight: 850;
+  font-style: normal;
+  color: #d9d9d9;
+}
+.service-item-desc ul {
+  max-width: 85%;
+  margin: 4rem 0;
+}
+.service-item-desc ul li {
+  display: flex;
+  max-width: 65rem;
+
+  font-family: "Urbanist", sans-serif;
+  font-optical-sizing: auto;
+  text-rendering: optimizelegibility;
+  font-style: normal;
+  font-size: 1.8rem;
+  line-height: 2.8rem;
+  font-weight: 300;
+}
+.service-item-desc ul li img {
+  margin-right: 10px !important;
+}
+
+/* seção de galeria de imagens */
+.service-item-right {
+  display: flex;
+  justify-content: flex-end !important;
+  margin-right: 6rem;
+  padding: 4rem 0;
+}
+
+.service-item-right img {
+  /* width: 35rem; */
+  /* height: 30rem; */
+  width: 40rem;
+  height: 35rem;
+
+  padding: 0 1rem;
+}
